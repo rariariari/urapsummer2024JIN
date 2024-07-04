@@ -11,6 +11,7 @@ library(scales)
 library(shiny)
 options(warn=-1)
 options(shiny.maxRequestSize=500*1024^2)
+options(shinylive.maxRequestSize=500*1024^2)
 
 cbsa_geoms <- st_read("usashapefiles/cbsa/cbsa_geoms.geojson") 
 states <- st_read("usashapefiles/states/states.geojson")
