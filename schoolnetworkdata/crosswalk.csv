@@ -1,0 +1,927 @@
+"","CBSAFP","metro_area","CSAFP"
+"1",10100,"south dakota nonmetropolitan area",NA
+"2",10140,"washington nonmetropolitan area",NA
+"3",10180,"texas nonmetropolitan area",NA
+"4",10220,"oklahoma nonmetropolitan area",NA
+"5",10300,"detroit metropolitan area",220
+"6",10420,"cleveland metropolitan area",184
+"7",10460,"new mexico nonmetropolitan area",NA
+"8",10500,"georgia nonmetropolitan area (united states)",NA
+"9",10540,"portland metropolitan area",440
+"10",10580,"albany metropolitan area",104
+"11",10620,"charlotte metropolitan area",172
+"12",10660,"minnesota nonmetropolitan area",NA
+"13",10700,"alabama nonmetropolitan area",NA
+"14",10740,"albuquerque metropolitan area",106
+"15",10760,"alabama nonmetropolitan area",388
+"16",10780,"louisiana nonmetropolitan area",NA
+"17",10820,"minnesota nonmetropolitan area",NA
+"18",10860,"corpus christi metropolitan area",204
+"19",10900,"pennsylvania nonmetropolitan area",NA
+"20",10940,"michigan nonmetropolitan area",394
+"21",10980,"michigan nonmetropolitan area",NA
+"22",11020,"pennsylvania nonmetropolitan area",107
+"23",11060,"oklahoma nonmetropolitan area",NA
+"24",11100,"texas nonmetropolitan area",108
+"25",11140,"georgia nonmetropolitan area (united states)",NA
+"26",11180,"des moines metropolitan area",218
+"27",11220,"albany metropolitan area",104
+"28",11260,"anchorage metropolitan area",NA
+"29",11380,"texas nonmetropolitan area",NA
+"30",11420,"fort wayne metropolitan area",258
+"31",11460,"detroit metropolitan area",220
+"32",11500,"alabama nonmetropolitan area",NA
+"33",11540,"wisconsin nonmetropolitan area",118
+"34",11580,"florida nonmetropolitan area",412
+"35",11620,"oklahoma nonmetropolitan area",NA
+"36",11660,"arkansas nonmetropolitan area",NA
+"37",11700,"north carolina nonmetropolitan area",120
+"38",11740,"ohio nonmetropolitan area",360
+"39",11780,"cleveland metropolitan area",184
+"40",11820,"oregon nonmetropolitan area",NA
+"41",11860,"kansas city metropolitan area",312
+"42",11900,"ohio nonmetropolitan area",NA
+"43",11940,"chattanooga metropolitan area",174
+"44",11980,"dallas metropolitan area",206
+"45",12020,"atlanta metropolitan area",122
+"46",12060,"atlanta metropolitan area",122
+"47",12100,"philadelphia metropolitan area",428
+"48",12120,"alabama nonmetropolitan area",426
+"49",12140,"fort wayne metropolitan area",258
+"50",12180,"syracuse metropolitan area",532
+"51",12220,"alabama nonmetropolitan area",194
+"52",12260,"georgia nonmetropolitan area (united states)",NA
+"53",12300,"maine nonmetropolitan area",NA
+"54",12380,"minnesota nonmetropolitan area",462
+"55",12420,"austin metropolitan area",NA
+"56",12460,"georgia nonmetropolitan area (united states)",NA
+"57",12540,"bakersfield metropolitan area",NA
+"58",12580,"baltimore metropolitan area",548
+"59",12620,"maine nonmetropolitan area",NA
+"60",12660,"madison metropolitan area",357
+"61",12680,"louisville metropolitan area",350
+"62",12700,"boston metropolitan area",148
+"63",12740,"vermont nonmetropolitan area",162
+"64",12780,"tulsa metropolitan area",538
+"65",12860,"rochester metropolitan area",464
+"66",12900,"arkansas nonmetropolitan area",NA
+"67",12940,"baton rouge metropolitan area",NA
+"68",12980,"michigan nonmetropolitan area",310
+"69",13020,"michigan nonmetropolitan area",474
+"70",13060,"houston metropolitan area",288
+"71",13100,"lincoln metropolitan area",339
+"72",13140,"texas nonmetropolitan area",NA
+"73",13180,"milwaukee metropolitan area",376
+"74",13220,"west virginia nonmetropolitan area",NA
+"75",13260,"indiana nonmetropolitan area",144
+"76",13300,"texas nonmetropolitan area",NA
+"77",13340,"columbus metropolitan area",198
+"78",13380,"washington nonmetropolitan area",NA
+"79",13420,"minnesota nonmetropolitan area",NA
+"80",13460,"oregon nonmetropolitan area",140
+"81",13500,"south carolina nonmetropolitan area",NA
+"82",13540,"vermont nonmetropolitan area",NA
+"83",13620,"new hampshire nonmetropolitan area",NA
+"84",13660,"grand rapids metropolitan area",266
+"85",13700,"texas nonmetropolitan area",NA
+"86",13720,"virginia nonmetropolitan area",NA
+"87",13740,"montana nonmetropolitan area",NA
+"88",13780,"new york nonmetropolitan area",NA
+"89",13820,"birmingham metropolitan area (alabama)",142
+"90",13900,"north dakota nonmetropolitan area",NA
+"91",13940,"idaho nonmetropolitan area",292
+"92",13980,"virginia nonmetropolitan area",NA
+"93",14010,"illinois nonmetropolitan area",145
+"94",14020,"indiana nonmetropolitan area",144
+"95",14100,"pennsylvania nonmetropolitan area",146
+"96",14140,"west virginia nonmetropolitan area",NA
+"97",14180,"arkansas nonmetropolitan area",NA
+"98",14220,"new orleans metropolitan area",406
+"99",14260,"boise metropolitan area",147
+"100",14300,"dallas metropolitan area",206
+"101",14380,"north carolina nonmetropolitan area",NA
+"102",14420,"texas nonmetropolitan area",108
+"103",14460,"boston metropolitan area",148
+"104",14500,"denver metropolitan area",216
+"105",14540,"kentucky nonmetropolitan area",150
+"106",14580,"montana nonmetropolitan area",NA
+"107",14620,"pennsylvania nonmetropolitan area",NA
+"108",14660,"minnesota nonmetropolitan area",NA
+"109",14700,"missouri nonmetropolitan area",NA
+"110",14720,"colorado nonmetropolitan area",NA
+"111",14740,"seattle metropolitan area",500
+"112",14780,"houston metropolitan area",288
+"113",14820,"north carolina nonmetropolitan area",120
+"114",14860,"new york city metropolitan area",408
+"115",15020,"jackson metropolitan area",298
+"116",15060,"oregon nonmetropolitan area",NA
+"117",15100,"south dakota nonmetropolitan area",NA
+"118",15140,"tennessee nonmetropolitan area",297
+"119",15180,"texas nonmetropolitan area",154
+"120",15220,"texas nonmetropolitan area",NA
+"121",15260,"georgia nonmetropolitan area (united states)",NA
+"122",15340,"ohio nonmetropolitan area",360
+"123",15380,"buffalo metropolitan area",160
+"124",15420,"idaho nonmetropolitan area",NA
+"125",15460,"iowa nonmetropolitan area",161
+"126",15500,"greensboro metropolitan area",268
+"127",15540,"vermont nonmetropolitan area",162
+"128",15580,"montana nonmetropolitan area",NA
+"129",15620,"michigan nonmetropolitan area",NA
+"130",15660,"chattanooga metropolitan area",174
+"131",15680,"washington metropolitan area",548
+"132",15700,"maryland nonmetropolitan area",480
+"133",15740,"columbus metropolitan area",198
+"134",15780,"arkansas nonmetropolitan area",NA
+"135",15820,"kentucky nonmetropolitan area",NA
+"136",15860,"colorado nonmetropolitan area",444
+"137",15940,"cleveland metropolitan area",184
+"138",15980,"florida nonmetropolitan area",163
+"139",16020,"missouri nonmetropolitan area",164
+"140",16060,"illinois nonmetropolitan area",NA
+"141",16100,"new mexico nonmetropolitan area",NA
+"142",16140,"iowa nonmetropolitan area",NA
+"143",16180,"reno metropolitan area",456
+"144",16220,"wyoming nonmetropolitan area",NA
+"145",16260,"utah nonmetropolitan area",NA
+"146",16300,"iowa nonmetropolitan area",168
+"147",16340,"atlanta metropolitan area",122
+"148",16380,"ohio nonmetropolitan area",338
+"149",16420,"kentucky nonmetropolitan area",NA
+"150",16460,"st louis metropolitan area",476
+"151",16500,"seattle metropolitan area",500
+"152",16540,"baltimore metropolitan area",548
+"153",16580,"illinois nonmetropolitan area",NA
+"154",16620,"west virginia nonmetropolitan area",170
+"155",16660,"illinois nonmetropolitan area",NA
+"156",16700,"charleston metropolitan area",NA
+"157",16740,"charlotte metropolitan area",172
+"158",16820,"virginia nonmetropolitan area",NA
+"159",16860,"chattanooga metropolitan area",174
+"160",16940,"wyoming nonmetropolitan area",NA
+"161",16980,"chicago metropolitan area",176
+"162",17020,"california nonmetropolitan area",NA
+"163",17060,"columbus metropolitan area",198
+"164",17140,"cincinnati metropolitan area",178
+"165",17220,"west virginia nonmetropolitan area",NA
+"166",17260,"mississippi nonmetropolitan area",NA
+"167",17300,"tennessee nonmetropolitan area",NA
+"168",17340,"california nonmetropolitan area",NA
+"169",17380,"mississippi nonmetropolitan area",185
+"170",17420,"chattanooga metropolitan area",174
+"171",17460,"cleveland metropolitan area",184
+"172",17500,"florida nonmetropolitan area",163
+"173",17540,"iowa nonmetropolitan area",209
+"174",17580,"new mexico nonmetropolitan area",188
+"175",17660,"spokane metropolitan area",518
+"176",17700,"kansas nonmetropolitan area",NA
+"177",17740,"michigan nonmetropolitan area",310
+"178",17780,"texas nonmetropolitan area",NA
+"179",17820,"colorado springs metropolitan area",NA
+"180",17860,"missouri nonmetropolitan area",190
+"181",17900,"columbia metropolitan area",192
+"182",17980,"georgia nonmetropolitan area (united states)",194
+"183",18020,"indianapolis metropolitan area",294
+"184",18060,"mississippi nonmetropolitan area",200
+"185",18100,"nebraska nonmetropolitan area",NA
+"186",18140,"columbus metropolitan area",198
+"187",18180,"boston metropolitan area",148
+"188",18220,"indiana nonmetropolitan area",458
+"189",18260,"tennessee nonmetropolitan area",NA
+"190",18300,"oregon nonmetropolitan area",NA
+"191",18380,"georgia nonmetropolitan area (united states)",NA
+"192",18420,"mississippi nonmetropolitan area",539
+"193",18460,"atlanta metropolitan area",122
+"194",18500,"new york nonmetropolitan area",236
+"195",18580,"corpus christi metropolitan area",204
+"196",18620,"dallas metropolitan area",206
+"197",18660,"new york nonmetropolitan area",296
+"198",18700,"portland metropolitan area",440
+"199",18740,"ohio nonmetropolitan area",NA
+"200",18780,"colorado nonmetropolitan area",525
+"201",18820,"indianapolis metropolitan area",294
+"202",18860,"california nonmetropolitan area",NA
+"203",18880,"florida nonmetropolitan area",NA
+"204",18900,"tennessee nonmetropolitan area",NA
+"205",18980,"birmingham metropolitan area (alabama)",142
+"206",19000,"north carolina nonmetropolitan area",NA
+"207",19060,"maryland nonmetropolitan area",NA
+"208",19100,"dallas metropolitan area",206
+"209",19140,"chattanooga metropolitan area",174
+"210",19180,"illinois nonmetropolitan area",NA
+"211",19220,"kentucky nonmetropolitan area",NA
+"212",19260,"virginia nonmetropolitan area",NA
+"213",19300,"mobile metropolitan area",380
+"214",19340,"iowa nonmetropolitan area",209
+"215",19420,"chattanooga metropolitan area",174
+"216",19430,"dayton metropolitan area",212
+"217",19460,"huntsville metropolitan area",290
+"218",19500,"illinois nonmetropolitan area",NA
+"219",19540,"fort wayne metropolitan area",258
+"220",19580,"ohio nonmetropolitan area",NA
+"221",19620,"texas nonmetropolitan area",NA
+"222",19660,"orlando metropolitan area",422
+"223",19700,"new mexico nonmetropolitan area",NA
+"224",19740,"denver metropolitan area",216
+"225",19760,"louisiana nonmetropolitan area",217
+"226",19780,"des moines metropolitan area",218
+"227",19820,"detroit metropolitan area",220
+"228",19860,"north dakota nonmetropolitan area",NA
+"229",19940,"illinois nonmetropolitan area",221
+"230",19980,"kansas nonmetropolitan area",NA
+"231",20020,"alabama nonmetropolitan area",222
+"232",20060,"georgia nonmetropolitan area (united states)",NA
+"233",20100,"philadelphia metropolitan area",428
+"234",20140,"georgia nonmetropolitan area (united states)",NA
+"235",20180,"pennsylvania nonmetropolitan area",524
+"236",20220,"iowa nonmetropolitan area",NA
+"237",20260,"minnesota nonmetropolitan area",NA
+"238",20300,"texas nonmetropolitan area",NA
+"239",20340,"oklahoma nonmetropolitan area",NA
+"240",20420,"colorado nonmetropolitan area",NA
+"241",20460,"dallas metropolitan area",206
+"242",20500,"raleigh metropolitan area",450
+"243",20540,"tennessee nonmetropolitan area",NA
+"244",20580,"texas nonmetropolitan area",NA
+"245",20660,"baltimore metropolitan area",548
+"246",20700,"new york city metropolitan area",408
+"247",20740,"wisconsin nonmetropolitan area",232
+"248",20780,"colorado nonmetropolitan area",233
+"249",20820,"illinois nonmetropolitan area",NA
+"250",20900,"houston metropolitan area",288
+"251",20940,"california nonmetropolitan area",NA
+"252",20980,"arkansas nonmetropolitan area",NA
+"253",21020,"virginia beach metropolitan area",545
+"254",21060,"louisville metropolitan area",350
+"255",21120,"oklahoma nonmetropolitan area",NA
+"256",21140,"indiana nonmetropolitan area",515
+"257",21180,"west virginia nonmetropolitan area",NA
+"258",21220,"nevada nonmetropolitan area",NA
+"259",21260,"washington nonmetropolitan area",NA
+"260",21300,"new york nonmetropolitan area",236
+"261",21340,"el paso metropolitan area",238
+"262",21380,"kansas nonmetropolitan area",NA
+"263",21420,"oklahoma nonmetropolitan area",NA
+"264",21460,"alabama nonmetropolitan area",NA
+"265",21500,"pennsylvania nonmetropolitan area",240
+"266",21540,"michigan nonmetropolitan area",NA
+"267",21580,"albuquerque metropolitan area",106
+"268",21640,"alabama nonmetropolitan area",NA
+"269",21660,"eugene metropolitan area",NA
+"270",21700,"california nonmetropolitan area",NA
+"271",21740,"wyoming nonmetropolitan area",NA
+"272",21780,"indiana nonmetropolitan area",NA
+"273",21820,"alaska nonmetropolitan area",NA
+"274",21840,"iowa nonmetropolitan area",NA
+"275",21860,"minnesota nonmetropolitan area",NA
+"276",21900,"west virginia nonmetropolitan area",390
+"277",21980,"nevada nonmetropolitan area",NA
+"278",22020,"north dakota nonmetropolitan area",244
+"279",22060,"minneapolis metropolitan area",378
+"280",22100,"st louis metropolitan area",476
+"281",22140,"new mexico nonmetropolitan area",NA
+"282",22180,"fayetteville metropolitan area",246
+"283",22220,"arkansas nonmetropolitan area",NA
+"284",22260,"minnesota nonmetropolitan area",NA
+"285",22280,"reno metropolitan area",456
+"286",22300,"toledo metropolitan area",534
+"287",22340,"georgia nonmetropolitan area (united states)",NA
+"288",22380,"arizona nonmetropolitan area",NA
+"289",22420,"detroit metropolitan area",220
+"290",22500,"south carolina nonmetropolitan area",NA
+"291",22520,"alabama nonmetropolitan area",NA
+"292",22540,"wisconsin nonmetropolitan area",NA
+"293",22580,"north carolina nonmetropolitan area",NA
+"294",22620,"memphis metropolitan area",368
+"295",22660,"fort collins metropolitan area",NA
+"296",22700,"iowa nonmetropolitan area",NA
+"297",22780,"missouri nonmetropolitan area",NA
+"298",22800,"iowa nonmetropolitan area",161
+"299",22820,"colorado nonmetropolitan area",NA
+"300",22840,"alabama nonmetropolitan area",497
+"301",22860,"louisiana nonmetropolitan area",217
+"302",22900,"arkansas nonmetropolitan area",NA
+"303",23060,"fort wayne metropolitan area",258
+"304",23140,"indiana nonmetropolitan area",320
+"305",23180,"lexington metropolitan area",336
+"306",23240,"texas nonmetropolitan area",314
+"307",23300,"illinois nonmetropolitan area",466
+"308",23340,"omaha metropolitan area",420
+"309",23380,"toledo metropolitan area",534
+"310",23420,"fresno metropolitan area",260
+"311",23460,"alabama nonmetropolitan area",NA
+"312",23500,"greenville metropolitan area",273
+"313",23540,"gainesville metropolitan area",264
+"314",23580,"atlanta metropolitan area",122
+"315",23620,"dallas metropolitan area",206
+"316",23660,"illinois nonmetropolitan area",NA
+"317",23700,"new mexico nonmetropolitan area",NA
+"318",23780,"kansas nonmetropolitan area",NA
+"319",23820,"reno metropolitan area",456
+"320",23860,"south carolina nonmetropolitan area",396
+"321",23900,"pennsylvania nonmetropolitan area",276
+"322",23940,"wyoming nonmetropolitan area",NA
+"323",23980,"kentucky nonmetropolitan area",150
+"324",24020,"albany metropolitan area",104
+"325",24060,"colorado nonmetropolitan area",233
+"326",24100,"albany metropolitan area",104
+"327",24140,"north carolina nonmetropolitan area",NA
+"328",24180,"dallas metropolitan area",206
+"329",24220,"north dakota nonmetropolitan area",NA
+"330",24260,"nebraska nonmetropolitan area",NA
+"331",24300,"colorado nonmetropolitan area",NA
+"332",24330,"minnesota nonmetropolitan area",NA
+"333",24340,"grand rapids metropolitan area",266
+"334",24380,"new mexico nonmetropolitan area",NA
+"335",24420,"oregon nonmetropolitan area",366
+"336",24460,"kansas nonmetropolitan area",NA
+"337",24500,"montana nonmetropolitan area",NA
+"338",24540,"denver metropolitan area",216
+"339",24580,"wisconsin nonmetropolitan area",267
+"340",24620,"tennessee nonmetropolitan area",NA
+"341",24660,"greensboro metropolitan area",268
+"342",24700,"indianapolis metropolitan area",294
+"343",24740,"mississippi nonmetropolitan area",NA
+"344",24780,"north carolina nonmetropolitan area",272
+"345",24820,"dayton metropolitan area",212
+"346",24860,"greenville metropolitan area",273
+"347",24900,"mississippi nonmetropolitan area",NA
+"348",24940,"greenville metropolitan area",273
+"349",24980,"mississippi nonmetropolitan area",NA
+"350",25060,"mississippi nonmetropolitan area",NA
+"351",25100,"oklahoma nonmetropolitan area",NA
+"352",25180,"baltimore metropolitan area",548
+"353",25200,"idaho nonmetropolitan area",NA
+"354",25220,"new orleans metropolitan area",406
+"355",25260,"fresno metropolitan area",260
+"356",25300,"missouri nonmetropolitan area",448
+"357",25420,"pennsylvania nonmetropolitan area",276
+"358",25460,"arkansas nonmetropolitan area",NA
+"359",25500,"virginia nonmetropolitan area",277
+"360",25540,"hartford metropolitan area",278
+"361",25580,"nebraska nonmetropolitan area",NA
+"362",25620,"mississippi nonmetropolitan area",279
+"363",25700,"kansas nonmetropolitan area",NA
+"364",25720,"salt lake city metropolitan area",482
+"365",25740,"montana nonmetropolitan area",NA
+"366",25760,"arkansas nonmetropolitan area",NA
+"367",25780,"raleigh metropolitan area",450
+"368",25820,"texas nonmetropolitan area",NA
+"369",25840,"oregon nonmetropolitan area",NA
+"370",25860,"north carolina nonmetropolitan area",NA
+"371",25880,"michigan nonmetropolitan area",NA
+"372",25900,"hawaii nonmetropolitan area",NA
+"373",25940,"south carolina nonmetropolitan area",NA
+"374",25980,"savannah metropolitan area",496
+"375",26020,"new mexico nonmetropolitan area",NA
+"376",26090,"grand rapids metropolitan area",266
+"377",26140,"florida nonmetropolitan area",NA
+"378",26220,"oregon nonmetropolitan area",NA
+"379",26260,"arkansas nonmetropolitan area",NA
+"380",26300,"arkansas nonmetropolitan area",284
+"381",26340,"michigan nonmetropolitan area",NA
+"382",26380,"louisiana nonmetropolitan area",NA
+"383",26420,"houston metropolitan area",288
+"384",26460,"albany metropolitan area",104
+"385",26500,"pennsylvania nonmetropolitan area",107
+"386",26540,"fort wayne metropolitan area",258
+"387",26580,"west virginia nonmetropolitan area",170
+"388",26620,"huntsville metropolitan area",290
+"389",26660,"houston metropolitan area",288
+"390",26700,"south dakota nonmetropolitan area",NA
+"391",26740,"kansas nonmetropolitan area",NA
+"392",26780,"minneapolis metropolitan area",378
+"393",26820,"idaho nonmetropolitan area",292
+"394",26860,"pittsburgh metropolitan area",430
+"395",26900,"indianapolis metropolitan area",294
+"396",26940,"mississippi nonmetropolitan area",185
+"397",26980,"iowa nonmetropolitan area",168
+"398",27020,"michigan nonmetropolitan area",361
+"399",27060,"new york nonmetropolitan area",296
+"400",27100,"michigan nonmetropolitan area",NA
+"401",27140,"jackson metropolitan area",298
+"402",27160,"ohio nonmetropolitan area",NA
+"403",27180,"tennessee nonmetropolitan area",297
+"404",27220,"wyoming nonmetropolitan area",NA
+"405",27260,"jacksonville metropolitan area",300
+"406",27300,"illinois nonmetropolitan area",522
+"407",27340,"north carolina nonmetropolitan area",NA
+"408",27380,"texas nonmetropolitan area",540
+"409",27420,"north dakota nonmetropolitan area",NA
+"410",27460,"new york nonmetropolitan area",NA
+"411",27500,"madison metropolitan area",357
+"412",27530,"birmingham metropolitan area (alabama)",142
+"413",27540,"indiana nonmetropolitan area",NA
+"414",27600,"atlanta metropolitan area",122
+"415",27620,"missouri nonmetropolitan area",NA
+"416",27660,"louisiana nonmetropolitan area",324
+"417",27700,"savannah metropolitan area",496
+"418",27740,"tennessee nonmetropolitan area",304
+"419",27780,"pennsylvania nonmetropolitan area",306
+"420",27860,"arkansas nonmetropolitan area",308
+"421",27900,"missouri nonmetropolitan area",309
+"422",27940,"alaska nonmetropolitan area",NA
+"423",27980,"hawaii nonmetropolitan area",NA
+"424",28020,"michigan nonmetropolitan area",310
+"425",28060,"montana nonmetropolitan area",NA
+"426",28100,"chicago metropolitan area",176
+"427",28140,"kansas city metropolitan area",312
+"428",28180,"hawaii nonmetropolitan area",NA
+"429",28260,"nebraska nonmetropolitan area",NA
+"430",28300,"new hampshire nonmetropolitan area",NA
+"431",28340,"fort wayne metropolitan area",258
+"432",28380,"missouri nonmetropolitan area",NA
+"433",28420,"washington nonmetropolitan area",313
+"434",28500,"texas nonmetropolitan area",314
+"435",28540,"alaska nonmetropolitan area",NA
+"436",28580,"miami metropolitan area",370
+"437",28620,"virginia beach metropolitan area",545
+"438",28660,"texas nonmetropolitan area",NA
+"439",28700,"tennessee nonmetropolitan area",304
+"440",28740,"new york city metropolitan area",408
+"441",28780,"corpus christi metropolitan area",204
+"442",28820,"north carolina nonmetropolitan area",272
+"443",28860,"missouri nonmetropolitan area",NA
+"444",28900,"oregon nonmetropolitan area",NA
+"445",28940,"knoxville metropolitan area",315
+"446",29020,"indiana nonmetropolitan area",316
+"447",29060,"boston metropolitan area",148
+"448",29100,"wisconsin nonmetropolitan area",NA
+"449",29180,"louisiana nonmetropolitan area",318
+"450",29200,"indiana nonmetropolitan area",320
+"451",29260,"oregon nonmetropolitan area",NA
+"452",29300,"atlanta metropolitan area",122
+"453",29340,"louisiana nonmetropolitan area",324
+"454",29380,"gainesville metropolitan area",264
+"455",29420,"arizona nonmetropolitan area",NA
+"456",29460,"orlando metropolitan area",422
+"457",29500,"texas nonmetropolitan area",NA
+"458",29540,"pennsylvania nonmetropolitan area",NA
+"459",29620,"michigan nonmetropolitan area",NA
+"460",29660,"wyoming nonmetropolitan area",NA
+"461",29700,"texas nonmetropolitan area",NA
+"462",29740,"el paso metropolitan area",238
+"463",29780,"albuquerque metropolitan area",106
+"464",29820,"las vegas metropolitan area",332
+"465",29860,"mississippi nonmetropolitan area",279
+"466",29900,"fayetteville metropolitan area",246
+"467",29940,"kansas city metropolitan area",312
+"468",29980,"nashville metropolitan area",400
+"469",30020,"oklahoma nonmetropolitan area",NA
+"470",30060,"missouri nonmetropolitan area",NA
+"471",30100,"new hampshire nonmetropolitan area",NA
+"472",30140,"pennsylvania nonmetropolitan area",276
+"473",30220,"lubbock metropolitan area",352
+"474",30260,"pennsylvania nonmetropolitan area",146
+"475",30280,"nashville metropolitan area",400
+"476",30300,"idaho nonmetropolitan area",NA
+"477",30340,"maine nonmetropolitan area",438
+"478",30380,"pennsylvania nonmetropolitan area",NA
+"479",30420,"nebraska nonmetropolitan area",NA
+"480",30460,"lexington metropolitan area",336
+"481",30580,"kansas nonmetropolitan area",NA
+"482",30620,"ohio nonmetropolitan area",338
+"483",30660,"illinois nonmetropolitan area",522
+"484",30700,"lincoln metropolitan area",339
+"485",30780,"little rock metropolitan area",340
+"486",30820,"pennsylvania nonmetropolitan area",558
+"487",30860,"utah nonmetropolitan area",NA
+"488",30900,"indiana nonmetropolitan area",NA
+"489",30940,"kentucky nonmetropolitan area",NA
+"490",30980,"texas nonmetropolitan area",NA
+"491",31020,"portland metropolitan area",440
+"492",31060,"albuquerque metropolitan area",106
+"493",31080,"los angeles metropolitan area",348
+"494",31140,"louisville metropolitan area",350
+"495",31180,"lubbock metropolitan area",352
+"496",31220,"michigan nonmetropolitan area",NA
+"497",31260,"texas nonmetropolitan area",NA
+"498",31300,"fayetteville metropolitan area",246
+"499",31340,"virginia nonmetropolitan area",NA
+"500",31380,"illinois nonmetropolitan area",NA
+"501",31420,"georgia nonmetropolitan area (united states)",356
+"502",31460,"fresno metropolitan area",260
+"503",31500,"indiana nonmetropolitan area",NA
+"504",31540,"madison metropolitan area",357
+"505",31580,"kentucky nonmetropolitan area",NA
+"506",31620,"arkansas nonmetropolitan area",NA
+"507",31660,"new york nonmetropolitan area",NA
+"508",31680,"arkansas nonmetropolitan area",284
+"509",31700,"boston metropolitan area",148
+"510",31740,"kansas nonmetropolitan area",NA
+"511",31820,"wisconsin nonmetropolitan area",NA
+"512",31860,"minnesota nonmetropolitan area",359
+"513",31900,"ohio nonmetropolitan area",360
+"514",31930,"ohio nonmetropolitan area",425
+"515",31940,"wisconsin nonmetropolitan area",361
+"516",31980,"indiana nonmetropolitan area",NA
+"517",32000,"north carolina nonmetropolitan area",120
+"518",32020,"columbus metropolitan area",198
+"519",32100,"michigan nonmetropolitan area",NA
+"520",32140,"minnesota nonmetropolitan area",NA
+"521",32180,"missouri nonmetropolitan area",NA
+"522",32260,"iowa nonmetropolitan area",NA
+"523",32280,"tennessee nonmetropolitan area",362
+"524",32300,"virginia nonmetropolitan area",NA
+"525",32340,"missouri nonmetropolitan area",NA
+"526",32380,"iowa nonmetropolitan area",NA
+"527",32460,"kentucky nonmetropolitan area",424
+"528",32500,"cincinnati metropolitan area",178
+"529",32540,"oklahoma nonmetropolitan area",NA
+"530",32580,"texas nonmetropolitan area",365
+"531",32620,"mississippi nonmetropolitan area",NA
+"532",32660,"tennessee nonmetropolitan area",NA
+"533",32700,"kansas nonmetropolitan area",NA
+"534",32740,"pennsylvania nonmetropolitan area",240
+"535",32780,"oregon nonmetropolitan area",366
+"536",32820,"memphis metropolitan area",368
+"537",32860,"wisconsin nonmetropolitan area",232
+"538",32900,"california nonmetropolitan area",488
+"539",32940,"mississippi nonmetropolitan area",NA
+"540",33020,"missouri nonmetropolitan area",190
+"541",33060,"oklahoma nonmetropolitan area",309
+"542",33100,"miami metropolitan area",370
+"543",33140,"chicago metropolitan area",176
+"544",33180,"kentucky nonmetropolitan area",NA
+"545",33220,"michigan nonmetropolitan area",474
+"546",33260,"texas nonmetropolitan area",372
+"547",33300,"georgia nonmetropolitan area (united states)",NA
+"548",33340,"milwaukee metropolitan area",376
+"549",33380,"louisiana nonmetropolitan area",508
+"550",33420,"dallas metropolitan area",206
+"551",33460,"minneapolis metropolitan area",378
+"552",33500,"north dakota nonmetropolitan area",NA
+"553",33540,"montana nonmetropolitan area",NA
+"554",33580,"south dakota nonmetropolitan area",NA
+"555",33620,"missouri nonmetropolitan area",190
+"556",33660,"mobile metropolitan area",380
+"557",33700,"stockton metropolitan area",488
+"558",33740,"louisiana nonmetropolitan area",384
+"559",33780,"detroit metropolitan area",220
+"560",33860,"alabama nonmetropolitan area",388
+"561",33940,"colorado nonmetropolitan area",NA
+"562",33980,"north carolina nonmetropolitan area",404
+"563",34020,"louisiana nonmetropolitan area",318
+"564",34060,"west virginia nonmetropolitan area",390
+"565",34100,"knoxville metropolitan area",315
+"566",34140,"idaho nonmetropolitan area",446
+"567",34180,"washington nonmetropolitan area",393
+"568",34220,"georgia nonmetropolitan area (united states)",NA
+"569",34260,"arkansas nonmetropolitan area",NA
+"570",34300,"boise metropolitan area",147
+"571",34340,"greensboro metropolitan area",268
+"572",34350,"west virginia nonmetropolitan area",170
+"573",34380,"michigan nonmetropolitan area",394
+"574",34420,"texas nonmetropolitan area",NA
+"575",34460,"lexington metropolitan area",336
+"576",34500,"illinois nonmetropolitan area",NA
+"577",34540,"columbus metropolitan area",198
+"578",34580,"seattle metropolitan area",500
+"579",34620,"indianapolis metropolitan area",294
+"580",34660,"kentucky nonmetropolitan area",NA
+"581",34700,"iowa nonmetropolitan area",209
+"582",34740,"grand rapids metropolitan area",266
+"583",34780,"tulsa metropolitan area",538
+"584",34820,"south carolina nonmetropolitan area",396
+"585",34860,"texas nonmetropolitan area",NA
+"586",34900,"san francisco metropolitan area",488
+"587",34940,"florida nonmetropolitan area",163
+"588",34980,"nashville metropolitan area",400
+"589",35020,"mississippi nonmetropolitan area",NA
+"590",35060,"louisiana nonmetropolitan area",NA
+"591",35100,"north carolina nonmetropolitan area",404
+"592",35140,"columbia metropolitan area",192
+"593",35220,"indianapolis metropolitan area",294
+"594",35260,"pittsburgh metropolitan area",430
+"595",35300,"new york city metropolitan area",408
+"596",35380,"new orleans metropolitan area",406
+"597",35420,"cleveland metropolitan area",184
+"598",35440,"oregon nonmetropolitan area",NA
+"599",35460,"knoxville metropolitan area",315
+"600",35580,"minnesota nonmetropolitan area",359
+"601",35620,"new york city metropolitan area",408
+"602",35660,"michigan nonmetropolitan area",515
+"603",35700,"tucson metropolitan area",536
+"604",35740,"nebraska nonmetropolitan area",NA
+"605",35820,"nebraska nonmetropolitan area",NA
+"606",35840,"florida nonmetropolitan area",412
+"607",35860,"indianapolis metropolitan area",294
+"608",35900,"north carolina nonmetropolitan area",NA
+"609",35940,"cleveland metropolitan area",184
+"610",35980,"hartford metropolitan area",278
+"611",36020,"seattle metropolitan area",500
+"612",36100,"florida nonmetropolitan area",NA
+"613",36140,"philadelphia metropolitan area",428
+"614",36220,"texas nonmetropolitan area",372
+"615",36260,"salt lake city metropolitan area",482
+"616",36300,"new york nonmetropolitan area",NA
+"617",36340,"pennsylvania nonmetropolitan area",NA
+"618",36380,"florida nonmetropolitan area",NA
+"619",36420,"oklahoma city metropolitan area",416
+"620",36460,"buffalo metropolitan area",160
+"621",36500,"seattle metropolitan area",500
+"622",36540,"omaha metropolitan area",420
+"623",36580,"new york nonmetropolitan area",NA
+"624",36620,"boise metropolitan area",147
+"625",36660,"louisiana nonmetropolitan area",318
+"626",36700,"columbia metropolitan area",192
+"627",36740,"orlando metropolitan area",422
+"628",36780,"wisconsin nonmetropolitan area",118
+"629",36820,"des moines metropolitan area",218
+"630",36830,"washington nonmetropolitan area",393
+"631",36837,"chicago metropolitan area",176
+"632",36840,"kansas city metropolitan area",312
+"633",36900,"iowa nonmetropolitan area",NA
+"634",36940,"minneapolis metropolitan area",378
+"635",36980,"kentucky nonmetropolitan area",NA
+"636",37060,"mississippi nonmetropolitan area",NA
+"637",37100,"los angeles metropolitan area",348
+"638",37120,"alabama nonmetropolitan area",222
+"639",37140,"kentucky nonmetropolitan area",424
+"640",37220,"las vegas metropolitan area",332
+"641",37260,"jacksonville metropolitan area",300
+"642",37300,"texas nonmetropolitan area",NA
+"643",37340,"florida nonmetropolitan area",NA
+"644",37420,"texas nonmetropolitan area",108
+"645",37460,"florida nonmetropolitan area",NA
+"646",37500,"arkansas nonmetropolitan area",308
+"647",37540,"tennessee nonmetropolitan area",NA
+"648",37580,"texas nonmetropolitan area",NA
+"649",37620,"west virginia nonmetropolitan area",425
+"650",37660,"kansas nonmetropolitan area",NA
+"651",37740,"phoenix metropolitan area",429
+"652",37770,"san antonio metropolitan area",484
+"653",37780,"texas nonmetropolitan area",NA
+"654",37800,"des moines metropolitan area",218
+"655",37860,"florida nonmetropolitan area",426
+"656",37900,"illinois nonmetropolitan area",NA
+"657",37940,"indiana nonmetropolitan area",316
+"658",37980,"philadelphia metropolitan area",428
+"659",38060,"phoenix metropolitan area",429
+"660",38100,"new orleans metropolitan area",406
+"661",38180,"south dakota nonmetropolitan area",NA
+"662",38220,"little rock metropolitan area",340
+"663",38240,"fayetteville metropolitan area",246
+"664",38260,"kansas nonmetropolitan area",NA
+"665",38300,"pittsburgh metropolitan area",430
+"666",38340,"massachusetts nonmetropolitan area",NA
+"667",38380,"lubbock metropolitan area",352
+"668",38420,"wisconsin nonmetropolitan area",NA
+"669",38460,"new york nonmetropolitan area",NA
+"670",38500,"indiana nonmetropolitan area",515
+"671",38540,"idaho nonmetropolitan area",NA
+"672",38580,"west virginia nonmetropolitan area",170
+"673",38620,"oklahoma nonmetropolitan area",NA
+"674",38700,"illinois nonmetropolitan area",145
+"675",38740,"missouri nonmetropolitan area",NA
+"676",38780,"new mexico nonmetropolitan area",188
+"677",38820,"washington nonmetropolitan area",NA
+"678",38860,"maine nonmetropolitan area",438
+"679",38900,"portland metropolitan area",440
+"680",38920,"texas nonmetropolitan area",544
+"681",38940,"miami metropolitan area",370
+"682",39020,"ohio nonmetropolitan area",170
+"683",39060,"pennsylvania nonmetropolitan area",NA
+"684",39100,"new york city metropolitan area",408
+"685",39150,"arizona nonmetropolitan area",NA
+"686",39220,"utah nonmetropolitan area",NA
+"687",39260,"oregon nonmetropolitan area",140
+"688",39300,"providence metropolitan area",148
+"689",39340,"salt lake city metropolitan area",482
+"690",39380,"colorado nonmetropolitan area",444
+"691",39420,"washington nonmetropolitan area",446
+"692",39460,"florida nonmetropolitan area",412
+"693",39500,"illinois nonmetropolitan area",448
+"694",39540,"milwaukee metropolitan area",376
+"695",39580,"raleigh metropolitan area",450
+"696",39660,"south dakota nonmetropolitan area",452
+"697",39700,"texas nonmetropolitan area",154
+"698",39740,"philadelphia metropolitan area",428
+"699",39780,"california nonmetropolitan area",454
+"700",39820,"california nonmetropolitan area",454
+"701",39860,"minneapolis metropolitan area",378
+"702",39900,"reno metropolitan area",456
+"703",39940,"idaho nonmetropolitan area",292
+"704",39980,"indiana nonmetropolitan area",458
+"705",40060,"richmond metropolitan area",NA
+"706",40080,"lexington metropolitan area",336
+"707",40100,"texas nonmetropolitan area",365
+"708",40140,"los angeles metropolitan area",348
+"709",40180,"wyoming nonmetropolitan area",NA
+"710",40220,"virginia nonmetropolitan area",NA
+"711",40260,"north carolina nonmetropolitan area",468
+"712",40300,"illinois nonmetropolitan area",466
+"713",40340,"minnesota nonmetropolitan area",462
+"714",40380,"rochester metropolitan area",464
+"715",40420,"illinois nonmetropolitan area",466
+"716",40460,"north carolina nonmetropolitan area",NA
+"717",40530,"corpus christi metropolitan area",204
+"718",40540,"wyoming nonmetropolitan area",NA
+"719",40580,"north carolina nonmetropolitan area",468
+"720",40620,"missouri nonmetropolitan area",NA
+"721",40660,"atlanta metropolitan area",122
+"722",40700,"oregon nonmetropolitan area",NA
+"723",40740,"new mexico nonmetropolitan area",NA
+"724",40760,"new mexico nonmetropolitan area",NA
+"725",40780,"arkansas nonmetropolitan area",NA
+"726",40820,"louisiana nonmetropolitan area",384
+"727",40860,"vermont nonmetropolitan area",NA
+"728",40900,"sacramento metropolitan area",472
+"729",40940,"arizona nonmetropolitan area",NA
+"730",40980,"michigan nonmetropolitan area",474
+"731",41060,"minneapolis metropolitan area",378
+"732",41100,"utah nonmetropolitan area",NA
+"733",41140,"kansas city metropolitan area",312
+"734",41180,"st louis metropolitan area",476
+"735",41220,"jacksonville metropolitan area",300
+"736",41260,"pennsylvania nonmetropolitan area",NA
+"737",41400,"ohio nonmetropolitan area",566
+"738",41420,"portland metropolitan area",440
+"739",41460,"kansas nonmetropolitan area",NA
+"740",41500,"california nonmetropolitan area",NA
+"741",41540,"maryland nonmetropolitan area",480
+"742",41620,"salt lake city metropolitan area",482
+"743",41660,"texas nonmetropolitan area",NA
+"744",41700,"san antonio metropolitan area",484
+"745",41740,"san diego metropolitan area",NA
+"746",41760,"idaho nonmetropolitan area",NA
+"747",41780,"cleveland metropolitan area",184
+"748",41820,"fayetteville metropolitan area",246
+"749",41860,"san francisco metropolitan area",488
+"750",41940,"san jose metropolitan area (california)",488
+"751",42020,"california nonmetropolitan area",NA
+"752",42100,"san jose metropolitan area (california)",488
+"753",42140,"albuquerque metropolitan area",106
+"754",42200,"california nonmetropolitan area",NA
+"755",42220,"san francisco metropolitan area",488
+"756",42300,"michigan nonmetropolitan area",NA
+"757",42340,"savannah metropolitan area",496
+"758",42380,"pennsylvania nonmetropolitan area",NA
+"759",42420,"nebraska nonmetropolitan area",NA
+"760",42460,"alabama nonmetropolitan area",497
+"761",42500,"louisville metropolitan area",350
+"762",42540,"pennsylvania nonmetropolitan area",NA
+"763",42620,"little rock metropolitan area",340
+"764",42660,"seattle metropolitan area",500
+"765",42680,"miami metropolitan area",370
+"766",42700,"florida nonmetropolitan area",NA
+"767",42740,"missouri nonmetropolitan area",NA
+"768",42780,"pennsylvania nonmetropolitan area",146
+"769",42820,"alabama nonmetropolitan area",388
+"770",42860,"greenville metropolitan area",273
+"771",42900,"rochester metropolitan area",464
+"772",42940,"knoxville metropolitan area",315
+"773",42980,"indianapolis metropolitan area",294
+"774",43020,"wisconsin nonmetropolitan area",267
+"775",43060,"oklahoma city metropolitan area",416
+"776",43100,"wisconsin nonmetropolitan area",NA
+"777",43140,"charlotte metropolitan area",172
+"778",43180,"nashville metropolitan area",400
+"779",43220,"seattle metropolitan area",500
+"780",43260,"wyoming nonmetropolitan area",NA
+"781",43300,"dallas metropolitan area",206
+"782",43320,"arizona nonmetropolitan area",NA
+"783",43340,"louisiana nonmetropolitan area",508
+"784",43380,"dayton metropolitan area",212
+"785",43420,"arizona nonmetropolitan area",NA
+"786",43460,"missouri nonmetropolitan area",164
+"787",43500,"new mexico nonmetropolitan area",NA
+"788",43580,"iowa nonmetropolitan area",NA
+"789",43620,"south dakota nonmetropolitan area",NA
+"790",43660,"texas nonmetropolitan area",NA
+"791",43700,"kentucky nonmetropolitan area",NA
+"792",43740,"pennsylvania nonmetropolitan area",306
+"793",43760,"california nonmetropolitan area",NA
+"794",43780,"indiana nonmetropolitan area",515
+"795",43900,"greenville metropolitan area",273
+"796",43940,"south dakota nonmetropolitan area",452
+"797",43980,"iowa nonmetropolitan area",517
+"798",44020,"iowa nonmetropolitan area",517
+"799",44060,"spokane metropolitan area",518
+"800",44100,"illinois nonmetropolitan area",522
+"801",44140,"massachusetts nonmetropolitan area",NA
+"802",44180,"springfield metropolitan area",NA
+"803",44220,"dayton metropolitan area",212
+"804",44260,"mississippi nonmetropolitan area",NA
+"805",44300,"pennsylvania nonmetropolitan area",524
+"806",44340,"savannah metropolitan area",496
+"807",44420,"virginia nonmetropolitan area",277
+"808",44460,"colorado nonmetropolitan area",525
+"809",44500,"texas nonmetropolitan area",NA
+"810",44540,"colorado nonmetropolitan area",NA
+"811",44580,"illinois nonmetropolitan area",221
+"812",44620,"wisconsin nonmetropolitan area",554
+"813",44660,"oklahoma nonmetropolitan area",NA
+"814",44700,"stockton metropolitan area",488
+"815",44740,"iowa nonmetropolitan area",NA
+"816",44780,"michigan nonmetropolitan area",310
+"817",44860,"texas nonmetropolitan area",NA
+"818",44900,"chattanooga metropolitan area",174
+"819",44940,"south carolina nonmetropolitan area",NA
+"820",44980,"pennsylvania nonmetropolitan area",146
+"821",45000,"california nonmetropolitan area",NA
+"822",45020,"texas nonmetropolitan area",NA
+"823",45060,"syracuse metropolitan area",532
+"824",45140,"oklahoma nonmetropolitan area",NA
+"825",45180,"birmingham metropolitan area (alabama)",142
+"826",45220,"tallahassee metropolitan area",NA
+"827",45300,"tampa metropolitan area",NA
+"828",45340,"new mexico nonmetropolitan area",NA
+"829",45380,"illinois nonmetropolitan area",522
+"830",45460,"indiana nonmetropolitan area",NA
+"831",45500,"texas nonmetropolitan area",NA
+"832",45520,"oregon nonmetropolitan area",NA
+"833",45540,"orlando metropolitan area",422
+"834",45580,"atlanta metropolitan area",122
+"835",45620,"georgia nonmetropolitan area (united states)",NA
+"836",45660,"toledo metropolitan area",534
+"837",45700,"georgia nonmetropolitan area (united states)",NA
+"838",45740,"atlanta metropolitan area",122
+"839",45780,"toledo metropolitan area",534
+"840",45820,"kansas nonmetropolitan area",NA
+"841",45860,"new york city metropolitan area",408
+"842",45900,"michigan nonmetropolitan area",NA
+"843",45940,"new york city metropolitan area",408
+"844",45980,"alabama nonmetropolitan area",NA
+"845",46020,"sacramento metropolitan area",472
+"846",46060,"tucson metropolitan area",536
+"847",46100,"tennessee nonmetropolitan area",NA
+"848",46140,"tulsa metropolitan area",538
+"849",46180,"mississippi nonmetropolitan area",539
+"850",46220,"alabama nonmetropolitan area",NA
+"851",46300,"idaho nonmetropolitan area",NA
+"852",46340,"texas nonmetropolitan area",540
+"853",46380,"california nonmetropolitan area",NA
+"854",46420,"greenville metropolitan area",273
+"855",46460,"tennessee nonmetropolitan area",362
+"856",46500,"dayton metropolitan area",212
+"857",46520,"honolulu metropolitan area",NA
+"858",46540,"new york nonmetropolitan area",NA
+"859",46620,"texas nonmetropolitan area",NA
+"860",46660,"georgia nonmetropolitan area (united states)",NA
+"861",46700,"san jose metropolitan area (california)",488
+"862",46780,"ohio nonmetropolitan area",338
+"863",46820,"south dakota nonmetropolitan area",NA
+"864",46860,"utah nonmetropolitan area",NA
+"865",46900,"texas nonmetropolitan area",NA
+"866",46980,"jackson metropolitan area",298
+"867",47020,"texas nonmetropolitan area",544
+"868",47080,"georgia nonmetropolitan area (united states)",NA
+"869",47180,"indiana nonmetropolitan area",NA
+"870",47220,"philadelphia metropolitan area",428
+"871",47240,"massachusetts nonmetropolitan area",NA
+"872",47260,"virginia beach metropolitan area",545
+"873",47300,"california nonmetropolitan area",NA
+"874",47340,"indiana nonmetropolitan area",NA
+"875",47380,"texas nonmetropolitan area",NA
+"876",47420,"north dakota nonmetropolitan area",244
+"877",47460,"washington nonmetropolitan area",313
+"878",47540,"ohio nonmetropolitan area",338
+"879",47580,"georgia nonmetropolitan area (united states)",356
+"880",47620,"pennsylvania nonmetropolitan area",NA
+"881",47660,"kansas city metropolitan area",312
+"882",47700,"indiana nonmetropolitan area",515
+"883",47780,"indiana nonmetropolitan area",NA
+"884",47820,"north carolina nonmetropolitan area",272
+"885",47900,"washington metropolitan area",548
+"886",47920,"columbus metropolitan area",198
+"887",47940,"iowa nonmetropolitan area",NA
+"888",47980,"south dakota nonmetropolitan area",NA
+"889",48020,"milwaukee metropolitan area",376
+"890",48060,"new york nonmetropolitan area",NA
+"891",48100,"orlando metropolitan area",422
+"892",48140,"wisconsin nonmetropolitan area",554
+"893",48180,"georgia nonmetropolitan area (united states)",NA
+"894",48220,"oklahoma nonmetropolitan area",NA
+"895",48260,"pittsburgh metropolitan area",430
+"896",48300,"washington nonmetropolitan area",NA
+"897",48460,"missouri nonmetropolitan area",NA
+"898",48500,"mississippi nonmetropolitan area",200
+"899",48540,"west virginia nonmetropolitan area",NA
+"900",48580,"milwaukee metropolitan area",376
+"901",48620,"wichita metropolitan area",556
+"902",48660,"texas nonmetropolitan area",NA
+"903",48700,"pennsylvania nonmetropolitan area",558
+"904",48780,"north dakota nonmetropolitan area",NA
+"905",48820,"minnesota nonmetropolitan area",NA
+"906",48900,"wilmington metropolitan area",NA
+"907",48940,"cincinnati metropolitan area",178
+"908",48980,"north carolina nonmetropolitan area",468
+"909",49020,"washington metropolitan area",548
+"910",49060,"wichita metropolitan area",556
+"911",49080,"nevada nonmetropolitan area",NA
+"912",49100,"minnesota nonmetropolitan area",NA
+"913",49180,"greensboro metropolitan area",268
+"914",49220,"wisconsin nonmetropolitan area",554
+"915",49260,"oklahoma nonmetropolitan area",NA
+"916",49300,"cleveland metropolitan area",184
+"917",49340,"boston metropolitan area",148
+"918",49380,"minnesota nonmetropolitan area",NA
+"919",49420,"washington nonmetropolitan area",NA
+"920",49460,"south dakota nonmetropolitan area",NA
+"921",49620,"pennsylvania nonmetropolitan area",276
+"922",49660,"ohio nonmetropolitan area",566
+"923",49700,"sacramento metropolitan area",472
+"924",49740,"arizona nonmetropolitan area",NA
+"925",49780,"columbus metropolitan area",198
+"926",49820,"texas nonmetropolitan area",NA
