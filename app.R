@@ -261,7 +261,6 @@ capitalize_words <- function(input) {
 
 # This function fetch user inputs to draw and return a downloadable map
 fetch_usermap<- function(input){
-  print(input)
   infos <- genfiltered_data(input,"high")
   m <- ggplot() +
     theme_void()
@@ -310,8 +309,8 @@ fetch_usermap<- function(input){
                                                        color="none",
                                                        alpha="none")
   combined <- ggdraw(m + coord_sf(xlim=c(-123,-69),ylim=c(25,49))) +
-    draw_plot(alaska,0,0.125,0.25,0.25) +
-    draw_plot(hawaii,0.25,0.15,0.15,0.15) +
+    draw_plot(alaska,0,0.05,0.25,0.25) +
+    draw_plot(hawaii,0.22,0.1,0.12,0.12) +
     theme(panel.background =
             element_rect(fill = input$imgBackCol,
                          colour = input$imgOutlCol,
@@ -500,7 +499,7 @@ ui <-
                            downloadButton("dl","Save as image"),
                            div(class = "dldropdown-content",
                                numericInput("imgHeight","Height (px):",
-                                            value=600),
+                                            value=500),
                                numericInput("imgWidth","Width (px):",
                                             value=1000),
                                selectInput("imgType","Format:",
