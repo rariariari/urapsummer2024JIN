@@ -309,12 +309,16 @@ fetch_usermap<- function(input){
                                                        color="none",
                                                        alpha="none")
   combined <- ggdraw(m + coord_sf(xlim=c(-123,-69),ylim=c(25,49))) +
-    draw_plot(alaska,0,0.05,0.25,0.25) +
-    draw_plot(hawaii,0.22,0.1,0.12,0.12) +
     theme(panel.background =
             element_rect(fill = input$imgBackCol,
                          colour = input$imgOutlCol,
                          linewidth= input$imgOutlSize))
+  if(!omitAlaska){
+    combined <- combined + draw_plot(alaska,0,0.05,0.25,0.25)
+  }
+  if(!omitHawaii){
+    combined <- combined + draw_plot(hawaii,0,0.05,0.25,0.25)
+  }
   return(combined)}
 
 # This is the basic UI module for the two-school comparison tool
