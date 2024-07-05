@@ -513,8 +513,10 @@ ui <-
                                numericInput("imgOutlSize","Outline width (mm):",
                                             value=0),
                                fluidRow(
-                                 checkboxGroupInput("omitAlaska","Omit Alaska",FALSE),
-                                 checkboxGroupInput("omitHawaii","Omit Hawaii",FALSE)
+                                 column(6,
+                                        checkboxGroupInput("omitAlaska","Omit Alaska",FALSE)),
+                                 column(6,
+                                        checkboxGroupInput("omitHawaii","Omit Hawaii",FALSE))
                                )
                            )
                        ),
