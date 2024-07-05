@@ -16,7 +16,7 @@ on:
 
 jobs:
   shinylive:
-    uses: rariariari/r-shinylive/.github/workflows/deploy-app.yaml
+    uses: rariariari/r-shinylive/.github/workflows/deploy-app.yaml@main
     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
       pages: write # to deploy to Pages
