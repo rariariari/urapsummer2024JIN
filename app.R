@@ -511,7 +511,11 @@ ui <-
                                textInput("imgOutlCol","Outline color (hex/any ggplot2 value):",
                                             value="#00000000"),
                                numericInput("imgOutlSize","Outline width (mm):",
-                                            value=0)
+                                            value=0),
+                               fluidRow(
+                                 checkboxGroupInput("omitAlaska","Omit Alaska",FALSE),
+                                 checkboxGroupInput("omitHawaii","Omit Hawaii",FALSE)
+                               )
                            )
                        ),
                        bottom="85px",left="10px",width="10px",height="10px",style = "z-index: 10000;"

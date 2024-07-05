@@ -20,7 +20,7 @@ jobs:
         with:
           packages: |
             renv
-            romanoneg/shinylive
+            posit-dev/shinylive
             sessioninfo
           cache-version: "1"  # Set a default value for cache
 
