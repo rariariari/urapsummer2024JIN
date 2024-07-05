@@ -16,7 +16,7 @@ on:
 
 jobs:
   shinylive:
-    uses: ./.github/workflows/deployv2.yaml@actions-v1
+    uses: ./.github/workflows/deployv2.yaml@actions
     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
       pages: write # to deploy to Pages
