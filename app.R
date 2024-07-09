@@ -560,7 +560,7 @@ server <- function(input, output, session){
   })
   
   output$readingmessage <- renderText({
-    paste0("It will take a few moments to read after upload.")
+    paste0("It will take a minute or two to read and to upload.")
   })
   
   observe({
