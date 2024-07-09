@@ -1,27 +1,25 @@
 library(magrittr)
 library(dplyr)
-library(sf)
 library(data.table)
-library(haven)
 library(leaflet)
-library(htmlwidgets)
-library(cowplot)
+library(haven)
 library(ggplot2)
+library(cowplot)
 library(scales)
+library(sf)
 library(shiny)
-options(warn=-1)
+# options(warn=-1)
 options(shiny.maxRequestSize=500*1024^2)
-options(shinylive.maxRequestSize=500*1024^2)
 
-cbsa_geoms <- st_read("usashapefiles/cbsa/cbsa_geoms.geojson") 
-states <- st_read("usashapefiles/states/states.geojson")
-cbsa_geomsHighres <- st_read("usashapefiles/cbsa/cbsa_geomsHighres.geojson")
-statesHighres <- st_read("usashapefiles/states/statesHighres.geojson")
+cbsa_geoms <- readRDS("usashapefiles/cbsa/cbsa_geoms.rsd") 
+states <- readRDS("usashapefiles/states/states.rsd")
+cbsa_geomsHighres <- readRDS("usashapefiles/cbsa/cbsa_geomsHighres.rsd")
+statesHighres <- readRDS("usashapefiles/states/statesHighres.rsd")
 
 #placeholder values
 schools <- c("None")
 fields <- c("All")
-all_metros <- data.frame(metro_area=("New Mexico"))
+all_metros <- data.frame(metro_area=("None"))
 full_level_dataALL <- NULL
 full_level_dataBACH <- NULL
 
@@ -37,11 +35,21 @@ downloadButton <- function(...) {
   tag
 }
 
-# These two palette functions are called to color the maps,
-# One is for the single school tool
-# The other is centered around zero for comparing two schools
-pal <- function(data,colors){
-  colorNumeric(palette = colors,domain = data)}
+# Define onRender as to not load the full htmlwidgets package
+addHook <- function (x, hookName, jsCode, data = NULL) 
+{
+  if (length(jsCode) == 0) 
+    return(x)
+  if (length(jsCode) > 1) 
+    jsCode <- paste(jsCode, collapse = "\n")
+  x$jsHooks[[hookName]] <- c(x$jsHooks[[hookName]], list(list(code = jsCode, 
+                                                              data = data)))
+  x
+}
+onRender <- function (x, jsCode, data = NULL) {addHook(x, "render", jsCode, data)}
+
+
+# Palette function to color the maps,
 pal2 <- function(data,colors){
   colorNumeric(palette = colors,domain = c(-max(abs(data)),0,max(abs(data))))}
 
@@ -200,7 +208,7 @@ gen_basemap <- function(){
     addLayersControl(.,overlayGroups = c("map labels")) %>%
     addControl(html = paste0("<input id=\"CBSAOpacitySlide\" type=\"range\" min=\"0\" max=\"2.4\" step=\"0.1\" value=\"1\">"),
                position="bottomleft") %>%
-    htmlwidgets::onRender(
+    onRender(
       paste0("function(el, x, data) {
         var map = this;
         var layerName = 'zones';
@@ -313,11 +321,11 @@ fetch_usermap<- function(input){
             element_rect(fill = input$imgBackCol,
                          colour = input$imgOutlCol,
                          linewidth= input$imgOutlSize))
-  if(!omitAlaska){
+  if(!input$omitAlaska){
     combined <- combined + draw_plot(alaska,0,0.05,0.25,0.25)
   }
-  if(!omitHawaii){
-    combined <- combined + draw_plot(hawaii,0,0.05,0.25,0.25)
+  if(!input$omitHawaii){
+    combined <- combined + draw_plot(hawaii,0.2,0.1,0.15,0.15)
   }
   return(combined)}
 
@@ -503,9 +511,9 @@ ui <-
                            downloadButton("dl","Save as image"),
                            div(class = "dldropdown-content",
                                numericInput("imgHeight","Height (px):",
-                                            value=500),
+                                            value=1500),
                                numericInput("imgWidth","Width (px):",
-                                            value=1000),
+                                            value=3000),
                                selectInput("imgType","Format:",
                                            choices=c("png","pdf","jpeg","tiff","svg"),
                                            selected="png"),
@@ -518,9 +526,9 @@ ui <-
                                             value=0),
                                fluidRow(
                                  column(6,
-                                        checkboxGroupInput("omitAlaska","Omit Alaska",FALSE)),
+                                        checkboxInput("omitAlaska","Omit Alaska")),
                                  column(6,
-                                        checkboxGroupInput("omitHawaii","Omit Hawaii",FALSE))
+                                        checkboxInput("omitHawaii","Omit Hawaii"))
                                )
                            )
                        ),
@@ -548,7 +556,7 @@ server <- function(input, output, session){
   output$startupmessage <- renderText({
     paste0("Please upload the data in either .csv or .dta format.\n",
            "This build only accepts the field x institution x metro level.\n",
-           "Note that reading a .csv is ~40x faster for this app.\n")
+           "Note that reading a .csv is ~40x faster than reading a .dta for this app.\n")
   })
   
   output$readingmessage <- renderText({
