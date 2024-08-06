@@ -9,7 +9,7 @@ library(scales)
 library(sf)
 library(shinytitle)
 library(shiny)
-# options(warn=-1)
+# options(warn=-1) a
 options(shiny.maxRequestSize=500*1024^2)
 
 cbsa_geoms <- readRDS("usashapefiles/cbsa/cbsa_geoms.rsd") 
