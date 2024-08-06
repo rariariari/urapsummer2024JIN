@@ -7,6 +7,7 @@ library(ggplot2)
 library(cowplot)
 library(scales)
 library(sf)
+library(shinytitle)
 library(shiny)
 # options(warn=-1)
 options(shiny.maxRequestSize=500*1024^2)
@@ -329,9 +330,12 @@ fetch_usermap<- function(input){
   }
   return(combined)}
 
+
 # This is the basic UI module for the two-school comparison tool
 ui <-
   fillPage(
+    title = "Tool for Jin",
+    use_shiny_title(),
     tags$head(tags$style(
       HTML('
              #input_date_control {background-color: rgba(0,0,255,0.2);;}
@@ -524,11 +528,10 @@ ui <-
                                             value="#00000000"),
                                numericInput("imgOutlSize","Outline width (mm):",
                                             value=0),
-                               fluidRow(
                                  column(6,
                                         checkboxInput("omitAlaska","Omit Alaska")),
                                  column(6,
-                                        checkboxInput("omitHawaii","Omit Hawaii"))
+                                        checkboxInput("omitHawaii","Omit Hawaii")
                                )
                            )
                        ),
@@ -539,7 +542,7 @@ ui <-
 
 # This is the accompanying basic server module for the two-school comparison tool
 server <- function(input, output, session){
-
+  
   output$map <- renderLeaflet({
     gen_basemap()
   })
