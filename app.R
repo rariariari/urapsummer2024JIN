@@ -29,11 +29,11 @@ popupPaste <- "<style> div.leaflet-popup-content-wrapper {width:100% !important;
 crosswalk <- fread("schoolnetworkdata/crosswalk.csv")
 
 # Workaround for Chromium Issue 468227
-downloadButton <- function(...) {
-  tag <- shiny::downloadButton(...)
-  tag$attribs$download <- NULL
-  tag
-}
+#downloadButton <- function(...) {
+#  tag <- shiny::downloadButton(...)
+#  tag$attribs$download <- NULL
+#  tag
+#}
 
 # Define onRender as to not load the full htmlwidgets package
 addHook <- function (x, hookName, jsCode, data = NULL) 
