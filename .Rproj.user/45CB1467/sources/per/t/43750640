@@ -1,0 +1,28 @@
+{
+    "id": "43750640",
+    "path": "~/urapsummer2024JIN/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "1446844401",
+    "contents": "",
+    "dirty": false,
+    "created": 1720475189682.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "11,20",
+        "scrollLine": "0",
+        "docOutlineVisible": "1",
+        "docOutlineSize": "111"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1722977198,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1722977198,
+    "read_only": false,
+    "read_only_alternatives": []
+}
